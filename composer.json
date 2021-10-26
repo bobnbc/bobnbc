@@ -14,8 +14,10 @@
         }
     ],
     "require": {
-        "pantheon-upstreams/upstream-configuration": "*",
-        "drush/drush": "^10"
+        "drupal/danland": "^1.1",
+        "drupal/tara": "^8.3",
+        "drush/drush": "^10",
+        "pantheon-upstreams/upstream-configuration": "*"
     },
     "conflict": {
             "drupal/drupal": "*"
