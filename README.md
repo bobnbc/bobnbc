@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobnbc (even though I don't work at NBC anymore ;-)
 - 👀 I love figuring stuff out.
 - 🌱 I’ve been working with Drupal for a while now. In fact, according to Drupal.org, I'm 14 years old.
-- 💞️ I’m currently supervising a top-notch Web team at the New Jersey Judiciary. It's an honor to be a state-appointed public servant.
+- 💞️ At present, I’m actively seeking my next exciting opportunity.
 - 📫 Here's how you can reach me:
 https://www.linkedin.com/in/robertliu7/
 <!---
